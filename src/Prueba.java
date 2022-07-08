@@ -9,7 +9,7 @@ public class Prueba {
 	}
 
 
-	private static mostrarFecha(){
+	private static void mostrarFecha(){
 		System.out.println("08-07-2022");
 	}
 }
