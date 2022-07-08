@@ -5,6 +5,7 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		String n = "nada 2";
 		System.out.println(n);
+		mostrarFecha();
 	}
 
 
