@@ -5,6 +5,7 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		String n = "nada 2";
 		System.out.println(n);
+<<<<<<< HEAD
 		mostrarFecha();
 	}
 
@@ -12,4 +13,12 @@ public class Prueba {
 	private static mostrarFecha(){
 		System.out.println("08-07-2022");
 	}
+=======
+		mostrarHora():
+	}
+	
+	private static mostrarHora(){
+		System.out.println("10:17");
+	}
+>>>>>>> 40dde3c (Add method main)
 }
