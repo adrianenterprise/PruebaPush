@@ -5,11 +5,11 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		String n = "nada 2";
 		System.out.println(n);
-		mostrarHora();
+		mostrarFecha();
 	}
 
 
-	private static void mostrarHora(){
+	private static void mostrarFecha(){
 		System.out.println("08-07-2022");
 	}
 			
