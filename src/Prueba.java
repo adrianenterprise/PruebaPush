@@ -7,4 +7,8 @@ public class Prueba {
 		System.out.println(n);
 	}
 
+
+	private static mostrarFecha(){
+		System.out.println("08-07-2022");
+	}
 }
